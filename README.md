@@ -1,5 +1,7 @@
 # 🏕️ Wildmark
 
+![Wildmark Logo](logos/Wildmark_logo_nobg_small.png)
+
 > Discover state parks. Find things to do nearby. Share tips with fellow explorers.
 
 Wildmark is a full-stack web application for discovering US state and national parks, exploring nearby activities, and reading community reviews and tips from other campers. Built and owned by a solo developer as a production AWS portfolio project.
